@@ -68,7 +68,7 @@ npm test
 
 ## 来源与署名
 
-本次 `app.js`、`style.css` 原样同步共享模板正式 main 的 `6a58eb9c476759d92681433f8eefc66c6a200698`，并同步最大化视图结构和行为测试；测试默认场景继续使用本路线保留的 `examples/fixtures/route.json` 与 `examples/fixtures/terrain.json`。保留此前线宽修复：非城市路线管道半径上限为 3 m，短路线原有线宽与城市路线固定线宽不变。
+本次 `app.js`、`style.css` 原样同步共享模板正式 main 的 `3c2d21a8acb7bc011af97a2798b4a5a27bf7d416`，并同步最大化视图及 2D 普通 / 恢复态避让工具栏、面板的修复和回归测试；测试默认场景继续使用本路线保留的 `examples/fixtures/route.json` 与 `examples/fixtures/terrain.json`。保留此前线宽修复：非城市路线管道半径上限为 3 m，短路线原有线宽与城市路线固定线宽不变。
 
 - 页面由 **Joker Outdoor** 制作，基于[路线可视化模板](https://github.com/joker-outdoor/route-visualization-template)，本仓初始模板基线为 `2cdc306aba0aba26b0f91f8ea540e38cf3b469ca`；模板源自[龙泉七湖连穿](https://github.com/joker-outdoor/longquan-seven-lakes-2026-10-02)，亦参考[贡嘎 100](https://github.com/joker-outdoor/gongga100-2026)。
 - 赛道坐标与站点定位：用户提供的赛事 GPX；赛事里程、爬升、下降与关门时间：用户提供的赛事站点表；26 小时时限：用户提供的资料海报。
