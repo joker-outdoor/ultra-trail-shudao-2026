@@ -66,6 +66,8 @@ npm test
 
 ## 来源与署名
 
+本次 `app.js` 原样同步共享模板正式 main 的 `7b45e276c7d5e8859b03820f44f5d635c1b0c221`，并同步其线宽回归测试；非城市路线管道半径上限为 3 m，保留短路线原有线宽与城市路线固定线宽。
+
 - 页面由 **Joker Outdoor** 制作，基于[路线可视化模板](https://github.com/joker-outdoor/route-visualization-template)，本仓初始模板基线为 `2cdc306aba0aba26b0f91f8ea540e38cf3b469ca`；模板源自[龙泉七湖连穿](https://github.com/joker-outdoor/longquan-seven-lakes-2026-10-02)，亦参考[贡嘎 100](https://github.com/joker-outdoor/gongga100-2026)。
 - 赛道坐标与站点定位：用户提供的赛事 GPX；赛事里程、爬升、下降与关门时间：用户提供的赛事站点表；26 小时时限：用户提供的资料海报。
 - Three.js 0.160.0 官方原文件，MIT，见 `vendor/LICENSE`，保留原文。
