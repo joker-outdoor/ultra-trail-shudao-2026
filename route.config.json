@@ -1,0 +1,78 @@
+{
+  "title": "2026 大蜀道100 · DSD 100K",
+  "subtitle": "Ultra-Trail Shudao · 古蜀道上的92公里",
+  "routeLabel": "DSD 100K",
+  "madeOn": "2026-11-04",
+  "recordedOn": null,
+  "startName": "大蜀道不夜三国城",
+  "finishName": "昭化古城",
+  "trackSource": "用户提供的2026大蜀道100赛事GPX",
+  "statsSource": "用户提供的赛事站点表：92km，累计爬升3510m、下降3550m；非个人运动记录",
+  "stats": {
+    "sourceDistanceKm": 92,
+    "gainM": 3510,
+    "lossM": 3550
+  },
+  "landmarkTitle": "九站补给",
+  "landmarkNote": "位置取GPX站点坐标；地图里程按轨迹测算，赛事站点里程见数据说明。D5为换装点。",
+  "landmarks": [
+    {
+      "name": "D1-普广小学",
+      "lon": 105.4465147,
+      "lat": 32.2585272,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D2-茶园沟",
+      "lon": 105.4267671,
+      "lat": 32.2310878,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D3青溪村",
+      "lon": 105.4297882,
+      "lat": 32.1856193,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D4-钟岭村",
+      "lon": 105.4259139,
+      "lat": 32.1434248,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D5-蜀汉驿站（换装点）",
+      "lon": 105.4682266,
+      "lat": 32.1116623,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D6-翠云廊",
+      "lon": 105.5397446,
+      "lat": 32.1581353,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D7-剑门关南门",
+      "lon": 105.5641776,
+      "lat": 32.2079628,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D8-高庙铺",
+      "lon": 105.6004331,
+      "lat": 32.2659654,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    },
+    {
+      "name": "D9-山水人家",
+      "lon": 105.6453285,
+      "lat": 32.3267221,
+      "positionSource": "用户提供的赛事GPX具名站点坐标，匹配最近赛道点"
+    }
+  ],
+  "imageryZoom": 13,
+  "demZoom": 12,
+  "detailImageryZoom": 17,
+  "routeColor": "#b9ef69"
+}
